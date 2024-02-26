@@ -1,0 +1,2 @@
+# fullStakApp
+Angular + NestJS + MongoDB
